@@ -1,0 +1,25 @@
+{
+  "name": "pitch-deck",
+  "version": "1.0.0",
+  "description": "pitch-deck repository",
+  "main": "index.js",
+  "scripts": {
+    "lint": "npx textlint ./*.md",
+    "lint:fix": "npx textlint --fix ./*.md",
+    "lint-staged": "lint-staged",
+    "prepare": "husky"
+  },
+  "keywords": [],
+  "author": "Knocks",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "@marp-team/marp-cli": "^3.4.0",
+    "husky": "^9.0.11",
+    "textlint": "^14.0.4",
+    "textlint-rule-no-mixed-zenkaku-and-hankaku-alphabet": "^1.0.1",
+    "textlint-rule-no-mixed-zenkaku-and-hankaku-number": "^1.0.0",
+    "textlint-rule-preset-ja-spacing": "^2.3.1",
+    "textlint-rule-preset-ja-technical-writing": "^10.0.1",
+    "textlint-rule-spellcheck-tech-word": "^5.0.0"
+  }
+}
