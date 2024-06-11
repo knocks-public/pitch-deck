@@ -21,8 +21,7 @@ Proving age without compromising personal information
 
 ## Problem Statement
 
-The Privacy Challenge in Age Verification.
-Showing an ID, current age verification methods, unnecessarily exposes personal information
+Age checks often reveal too much personal information like your name, address, and photo. This harms your privacy and raises the risk of data theft.
 
 ---
 
@@ -48,7 +47,7 @@ Inro’s Innovative Approach
 
 ---
 
-## Slide 6: Use Cases
+## Use Cases
 
 **Title**: Transforming Digital Identity Verification
 
