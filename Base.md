@@ -71,20 +71,59 @@ Inro use Sindri for ZK backend service.
 
 ---
 
-## Network economics
+## Business Model
 
-**Title**: Why Choose Inro
+- **Revenue Streams**:
+  - **B2B**: Replace manual age verification at venues, reducing labor costs.
+  - **Advertising**: Cover gas fees with targeted ads for free users.
+  - **Premium Users**: Offer device-based ZK verification and ad-free experience.
 
 ---
 
 ## Timeline
 
-**Title**: Expanding Horizons
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="text-align: center; width: 20%;">
+    <h4>Q2 2024</h4>
+    <p>Develop initial Prototype</p>
+  </div>
+  <div style="text-align: center; width: 20%;">
+    <h4>Q3 2024</h4>
+    <p>Ensure compliance with regulations</p>
+    <p>Trial alpha release</p>
+  </div>
+  <div style="text-align: center; width: 20%;">
+    <h4>Q4 2024</h4>
+    <p>Improve based on user feedback and </p>
+  </div>
+  <div style="text-align: center; width: 20%;">
+    <h4>Q1 2025</h4>
+    <p>Launch V1 and promoting our product</p>
+  </div>
+  <div style="text-align: center; width: 20%;">
+    <h4>Q2 2025</h4>
+    <p>Support Device ZK verification</p>
+  </div>
+</div>
 
 ---
 
 ## Use of funds
 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="text-align: center; width: 33%;">
+    <h4>50%</h4>
+    <p>Product Development</p>
+  </div>
+  <div style="text-align: center; width: 33%;">
+    <h4>30%</h4>
+    <p>Marketing and Sales</p>
+  </div>
+  <div style="text-align: center; width: 33%;">
+    <h4>20%</h4>
+    <p>Team Expansion</p>
+  </div>
+</div>
 
 
 ---
