@@ -8,7 +8,7 @@ class:
 
 # Knocks
 
-![bg cover right](./images/icon.png)
+![bg cover right](./images/Icon.png)
 https://github.com/knocks-public
 
 ---
@@ -46,35 +46,46 @@ Show a QR code on your smartphone instead of an ID. That's it. No extra devices 
 
 ## System Overview
 
-<img src="./images/systemOverview.png" alt="Image of Inro system">
+<div style="text-align: center;">
+    <img src="./images/SytemOverview.jpeg" alt="System Overview" width="60%">
+</div>
 
 ---
 
-## Slide 5: Technology Stack
+## Size Of Market
 
 **Title**: Leveraging Advanced Technologies
 
 ---
 
-## Use Cases
+## Our Collaborations
 
-**Title**: Transforming Digital Identity Verification
+Inro use Sindri for ZK backend service.
+<div style="text-align: center;">
+    <img src="./images/Sindri.png" alt="Collaborations" width="60%">
+</div>
 
 ---
 
-## Slide 7: Benefits
+## Network economics
 
 **Title**: Why Choose Inro
 
 ---
 
-## Slide 8: Future Prospects
+## Timeline
 
 **Title**: Expanding Horizons
 
 ---
 
-## Team
+## Use of funds
+
+
+
+---
+
+## Meet the founders
 
 <table>
   <tr>
@@ -98,18 +109,6 @@ Show a QR code on your smartphone instead of an ID. That's it. No extra devices 
     </td>
   </tr>
 </table>
-
----
-
-## Slide 10: Call to Action
-
-**Title**: Join Us in Revolutionizing ID Verification
-
----
-
-## Collaborations
-
-**Title**: Join Us in Revolutionizing ID Verification
 
 ---
 
