@@ -12,7 +12,7 @@ lint_fix:
 
 .PHONY: export_pdf
 export_pdf:
-	npx marp Base.md --pdf --allow-local-files --html
+	npx marp Knocks_pitch_deck.md --pdf --allow-local-files --html
 
 .PHONY: before_commit
 before_commit: lint

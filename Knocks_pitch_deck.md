@@ -125,7 +125,6 @@ Inro use Sindri for ZK backend service.
   </div>
 </div>
 
-
 ---
 
 ## Meet the founders
