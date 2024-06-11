@@ -54,7 +54,11 @@ Show a QR code on your smartphone instead of an ID. That's it. No extra devices 
 
 ## Size Of Market
 
-**Title**: Leveraging Advanced Technologies
+- In 2023, the eKYC market was valued at $673.2 million.
+- It is projected to reach $3,398.5 million by 2032, with a CAGR of 19.71 percent.
+- Inro can replace traditional eKYC processes for age and identity verification by offering:
+
+*Source: [IMARC Group](https://www.imarcgroup.com/e-kyc-market)*
 
 ---
 
@@ -99,7 +103,7 @@ Inro use Sindri for ZK backend service.
       Software Engineer
     </td>
     <td>
-      <img src="./images/ShingoTakagi.png" alt="Image of Shingo Takagi">
+      <img src="./images/ShingoTakagi.png" alt="Image of Shingo Takagi" width="56%">
       <br>
       <b>Shingo Takagi</b>
       <br>
