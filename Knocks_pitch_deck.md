@@ -82,25 +82,25 @@ Inro use Sindri for ZK backend service.
 
 ## Timeline
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="text-align: center; width: 20%;">
+<div style="display: flex; justify-content: space-between; align-items: stretch;">
+  <div style="text-align: center; width: 20%; display: flex; flex-direction: column; justify-content: flex-start;">
     <h4>Q2 2024</h4>
     <p>Develop initial Prototype</p>
   </div>
-  <div style="text-align: center; width: 20%;">
+  <div style="text-align: center; width: 20%; display: flex; flex-direction: column; justify-content: flex-start;">
     <h4>Q3 2024</h4>
     <p>Ensure compliance with regulations</p>
     <p>Trial alpha release</p>
   </div>
-  <div style="text-align: center; width: 20%;">
+  <div style="text-align: center; width: 20%; display: flex; flex-direction: column; justify-content: flex-start;">
     <h4>Q4 2024</h4>
-    <p>Improve based on user feedback and </p>
+    <p>Improve based on user feedback</p>
   </div>
-  <div style="text-align: center; width: 20%;">
+  <div style="text-align: center; width: 20%; display: flex; flex-direction: column; justify-content: flex-start;">
     <h4>Q1 2025</h4>
-    <p>Launch V1 and promoting our product</p>
+    <p>Launch V1</p>
   </div>
-  <div style="text-align: center; width: 20%;">
+  <div style="text-align: center; width: 20%; display: flex; flex-direction: column; justify-content: flex-start;">
     <h4>Q2 2025</h4>
     <p>Support Device ZK verification</p>
   </div>
