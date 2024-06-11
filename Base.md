@@ -8,6 +8,7 @@ class:
 
 # Knocks
 
+![bg cover right](./images/icon.png)
 https://github.com/knocks-public
 
 ---
@@ -31,9 +32,21 @@ Show a QR code on your smartphone instead of an ID. That's it. No extra devices 
 
 ---
 
-## Slide 4: How It Works
+## How It Works
 
-**Title**: Simple and Secure Verification Process
+- **For Users**:
+  1. **Scan ID**: Users scan their ID using the Inro app.
+  2. **Generate QR Code**: The app generates a QR code that proves their age.
+
+- **For Verifiers**:
+  1. **Scan QR Code**: Verifiers scan the user's QR code.
+  2. **Confirm Age**: They confirm the user's age without seeing other personal details.
+
+---
+
+## System Overview
+
+<img src="./images/systemOverview.png" alt="Image of Inro system">
 
 ---
 
