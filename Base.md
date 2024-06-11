@@ -6,22 +6,33 @@ class:
   - invert
 ---
 
-# Slide 1: Introduction
+# Knocks
 
-Title: Inro - Privacy-First Decentralized ID Verification.
-Subtitle: Proving age without compromising personal information
-
----
-
-## Slide 2: Problem Statement
-
-**Title**: The Privacy Challenge in Age Verification
+https://github.com/knocks-public
 
 ---
 
-## Slide 3: Solution
+## Introduction
 
-**Title**: Inro’s Innovative Approach
+**Inro**: Zero-Knowledge Proof Age Verification System.
+Proving age without compromising personal information
+
+---
+
+## Problem Statement
+
+The Privacy Challenge in Age Verification.
+Showing an ID, current age verification methods, unnecessarily exposes personal information
+
+---
+
+## Innovative Solutions
+
+Inro’s Innovative Approach
+
+- Privacy-Preserving Age Verification
+- Efficient and User-Friendly Experience
+- Innovative Use of QR Codes and Zero-Knowledge Proofs
 
 ---
 
@@ -55,9 +66,30 @@ Subtitle: Proving age without compromising personal information
 
 ---
 
-## Slide 9: Team
+## Team
 
-**Title**: Meet the Innovators
+<table>
+  <tr>
+    <td>
+      <img src="./images/SusumuTomita.jpeg" alt="Image of Susumu Tomita">
+      <br>
+      <b><a href="https://susumutomita.netlify.app/">Susumu Tomita</a></b>
+      <br>
+      Co-Founder
+      <br>
+      Software Engineer
+    </td>
+    <td>
+      <img src="./images/ShingoTakagi.png" alt="Image of Shingo Takagi">
+      <br>
+      <b>Shingo Takagi</b>
+      <br>
+      Co-Founder
+      <br>
+      Software Engineer
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -67,6 +99,12 @@ Subtitle: Proving age without compromising personal information
 
 ---
 
-## Slide 11: Q&A
+## Collaborations
 
-**Title**: Questions and Discussion
+**Title**: Join Us in Revolutionizing ID Verification
+
+---
+
+## Thank you
+
+for your time and attention.
