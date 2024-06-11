@@ -27,11 +27,7 @@ Age checks often reveal too much personal information like your name, address, a
 
 ## Innovative Solutions
 
-Inro’s Innovative Approach
-
-- Privacy-Preserving Age Verification
-- Efficient and User-Friendly Experience
-- Innovative Use of QR Codes and Zero-Knowledge Proofs
+Show a QR code on your smartphone instead of an ID. That's it. No extra devices needed. Zero-knowledge proofs confirm age without revealing personal details.
 
 ---
 
