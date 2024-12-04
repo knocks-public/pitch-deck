@@ -13,7 +13,7 @@
   "author": "Knocks",
   "license": "Apache-2.0",
   "devDependencies": {
-    "@marp-team/marp-cli": "^3.4.0",
+    "@marp-team/marp-cli": "^4.0.0",
     "husky": "^9.0.11",
     "textlint": "^14.0.4",
     "textlint-rule-no-mixed-zenkaku-and-hankaku-alphabet": "^1.0.1",
