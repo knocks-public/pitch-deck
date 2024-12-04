@@ -14,7 +14,7 @@
   "license": "Apache-2.0",
   "devDependencies": {
     "@marp-team/marp-cli": "^3.4.0",
-    "husky": "^9.0.11",
+    "husky": "^9.1.6",
     "textlint": "^14.0.4",
     "textlint-rule-no-mixed-zenkaku-and-hankaku-alphabet": "^1.0.1",
     "textlint-rule-no-mixed-zenkaku-and-hankaku-number": "^1.0.0",
